@@ -1,0 +1,17 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/font/hpbar.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                    "01234"
+                ]
+        },
+        {
+            "type": "space",
+            "advances": {"-": -1}
+        }
+    ]
+}
