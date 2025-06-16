@@ -1,0 +1,44 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/font/icons.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "45678<>"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/font/death.png",
+            "ascent": 21,
+            "height": 21,
+            "chars": [
+                "☠"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/font/title.png",
+            "ascent": 82,
+            "height": 82,
+            "chars": [
+                "01"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/font/scores.png",
+            "ascent": 10,
+            "height": 25,
+            "chars": [
+                "23"
+            ]
+        },
+        {
+            "type": "space",
+            "advances": {"-": -1}
+        }
+    ]
+}

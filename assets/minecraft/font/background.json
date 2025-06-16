@@ -1,0 +1,17 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/font/background.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": [
+                "01"
+            ]
+        },
+        {
+            "type": "space",
+            "advances": {"2": -1}
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/font/menus/loadout.png",
+            "ascent": 13,
+            "height": 134,
+            "chars": [
+                "0"
+            ]
+        },
+        {
+            "type": "space",
+            "advances": {"-": -8}
+        }
+    ]
+}
