@@ -12,8 +12,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:custom/font/death.png",
-            "ascent": 21,
-            "height": 21,
+            "ascent": 42,
+            "height": 42,
             "chars": [
                 "☠"
             ]
